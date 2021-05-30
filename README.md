@@ -3,11 +3,11 @@ Repo for the Q-Munity hackathon - May 2021
 
 Team Members
 
-- Ankith Mohan @ankith-moha
+- Ankith Mohan @ankith-mohan
 - Sarath Reddy @sarathreddy55
 - Vishal Sharathchandra Bajpe @mrvee-qC
 
-### Problelm Statement
+### Problem Statement
   
 The huge potential impact of the optimal physical layout design on the performance of Quantum chips is very well known, yet, Unlike semiconductor physical design methodology, the Quantum architecture design & Quantum physical layout design lacks enough research & development. The lack of a comprehensive & integrated EDA environment for the Physical layout design of quantum chips is the main reason behind low research in this area. Thanks to IBM, we now have access to QISKIT METAL an open-source Q-EDA tool for the purpose of Physical layout design of Superconducting based Quantum Chips. Under standardized Physical Design flow using QISKIT Metal for Quantum Chips, Individuals & Companies looks out for efficient re-usable designs, rather than creating each & every design from scratch. Soft & Hard IPs help bridge this gap. Quantum hardware being a young industry lacks such intellectual properties. We work to resolve this gap by creating more variety of optimized Hard IPs for various Quantum Architectures.
  
